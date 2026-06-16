@@ -1,2 +1,2 @@
 # GliNER-contracts
-Named entity recognition (NER) using LLMs for automated information extraction from contracts
+Named entity recognition (NER) using the GLiNER library and LLMs for automated information extraction from contracts
