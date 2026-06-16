@@ -10,3 +10,5 @@ Upload some sample contracts in pdf format in a new folder called "Vertrag" in t
 
 You can get sample contracts e.g. from the CUAD project:
 https://www.atticusprojectai.org/cuad/
+
+GLiNER Reference: https://github.com/urchade/GLiNER
